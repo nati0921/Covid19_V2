@@ -7247,19 +7247,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Natalia\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\COVID19-masterManuel\\COVID19-master\\COVID.App.Dominio\\COVID.App.Dominio.csproj",
+      "projectUniqueName": "D:\\Covid19_V2-1\\COVID.App.Dominio\\COVID.App.Dominio.csproj",
       "projectName": "COVID.App.Dominio",
-      "projectPath": "C:\\COVID19-masterManuel\\COVID19-master\\COVID.App.Dominio\\COVID.App.Dominio.csproj",
-      "packagesPath": "C:\\Users\\Natalia\\.nuget\\packages\\",
-      "outputPath": "C:\\COVID19-masterManuel\\COVID19-master\\COVID.App.Dominio\\obj\\",
+      "projectPath": "D:\\Covid19_V2-1\\COVID.App.Dominio\\COVID.App.Dominio.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "D:\\Covid19_V2-1\\COVID.App.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Natalia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
@@ -7317,7 +7317,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.411\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
       }
     }
   }

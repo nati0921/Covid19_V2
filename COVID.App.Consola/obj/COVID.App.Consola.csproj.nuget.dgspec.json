@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\COVID19-masterManuel\\COVID19-master\\COVID.App.Consola\\COVID.App.Consola.csproj": {}
+    "D:\\Covid19_V2-1\\COVID.App.Consola\\COVID.App.Consola.csproj": {}
   },
   "projects": {
-    "C:\\COVID19-masterManuel\\COVID19-master\\COVID.App.Consola\\COVID.App.Consola.csproj": {
+    "D:\\Covid19_V2-1\\COVID.App.Consola\\COVID.App.Consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\COVID19-masterManuel\\COVID19-master\\COVID.App.Consola\\COVID.App.Consola.csproj",
+        "projectUniqueName": "D:\\Covid19_V2-1\\COVID.App.Consola\\COVID.App.Consola.csproj",
         "projectName": "COVID.App.Consola",
-        "projectPath": "C:\\COVID19-masterManuel\\COVID19-master\\COVID.App.Consola\\COVID.App.Consola.csproj",
-        "packagesPath": "C:\\Users\\Natalia\\.nuget\\packages\\",
-        "outputPath": "C:\\COVID19-masterManuel\\COVID19-master\\COVID.App.Consola\\obj\\",
+        "projectPath": "D:\\Covid19_V2-1\\COVID.App.Consola\\COVID.App.Consola.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Covid19_V2-1\\COVID.App.Consola\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Natalia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -25,11 +25,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\COVID19-masterManuel\\COVID19-master\\COVID.App.Dominio\\COVID.App.Dominio.csproj": {
-                "projectPath": "C:\\COVID19-masterManuel\\COVID19-master\\COVID.App.Dominio\\COVID.App.Dominio.csproj"
+              "D:\\Covid19_V2-1\\COVID.App.Dominio\\COVID.App.Dominio.csproj": {
+                "projectPath": "D:\\Covid19_V2-1\\COVID.App.Dominio\\COVID.App.Dominio.csproj"
               },
-              "C:\\COVID19-masterManuel\\COVID19-master\\COVID.App.Persistencia\\COVID.App.Persistencia.csproj": {
-                "projectPath": "C:\\COVID19-masterManuel\\COVID19-master\\COVID.App.Persistencia\\COVID.App.Persistencia.csproj"
+              "D:\\Covid19_V2-1\\COVID.App.Persistencia\\COVID.App.Persistencia.csproj": {
+                "projectPath": "D:\\Covid19_V2-1\\COVID.App.Persistencia\\COVID.App.Persistencia.csproj"
               }
             }
           }
@@ -69,21 +69,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.411\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\COVID19-masterManuel\\COVID19-master\\COVID.App.Dominio\\COVID.App.Dominio.csproj": {
+    "D:\\Covid19_V2-1\\COVID.App.Dominio\\COVID.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\COVID19-masterManuel\\COVID19-master\\COVID.App.Dominio\\COVID.App.Dominio.csproj",
+        "projectUniqueName": "D:\\Covid19_V2-1\\COVID.App.Dominio\\COVID.App.Dominio.csproj",
         "projectName": "COVID.App.Dominio",
-        "projectPath": "C:\\COVID19-masterManuel\\COVID19-master\\COVID.App.Dominio\\COVID.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\Natalia\\.nuget\\packages\\",
-        "outputPath": "C:\\COVID19-masterManuel\\COVID19-master\\COVID.App.Dominio\\obj\\",
+        "projectPath": "D:\\Covid19_V2-1\\COVID.App.Dominio\\COVID.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Covid19_V2-1\\COVID.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Natalia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -141,21 +141,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.411\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\COVID19-masterManuel\\COVID19-master\\COVID.App.Persistencia\\COVID.App.Persistencia.csproj": {
+    "D:\\Covid19_V2-1\\COVID.App.Persistencia\\COVID.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\COVID19-masterManuel\\COVID19-master\\COVID.App.Persistencia\\COVID.App.Persistencia.csproj",
+        "projectUniqueName": "D:\\Covid19_V2-1\\COVID.App.Persistencia\\COVID.App.Persistencia.csproj",
         "projectName": "COVID.App.Persistencia",
-        "projectPath": "C:\\COVID19-masterManuel\\COVID19-master\\COVID.App.Persistencia\\COVID.App.Persistencia.csproj",
-        "packagesPath": "C:\\Users\\Natalia\\.nuget\\packages\\",
-        "outputPath": "C:\\COVID19-masterManuel\\COVID19-master\\COVID.App.Persistencia\\obj\\",
+        "projectPath": "D:\\Covid19_V2-1\\COVID.App.Persistencia\\COVID.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Covid19_V2-1\\COVID.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Natalia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -166,8 +166,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\COVID19-masterManuel\\COVID19-master\\COVID.App.Dominio\\COVID.App.Dominio.csproj": {
-                "projectPath": "C:\\COVID19-masterManuel\\COVID19-master\\COVID.App.Dominio\\COVID.App.Dominio.csproj"
+              "D:\\Covid19_V2-1\\COVID.App.Dominio\\COVID.App.Dominio.csproj": {
+                "projectPath": "D:\\Covid19_V2-1\\COVID.App.Dominio\\COVID.App.Dominio.csproj"
               }
             }
           }
@@ -217,7 +217,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.411\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
         }
       }
     }

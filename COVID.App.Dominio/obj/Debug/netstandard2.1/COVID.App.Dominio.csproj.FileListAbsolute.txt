@@ -15,3 +15,12 @@ C:\COVID19-masterManuel\COVID19-master\COVID.App.Dominio\obj\Debug\netstandard2.
 C:\COVID19-masterManuel\COVID19-master\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.csproj.CoreCompileInputs.cache
 C:\COVID19-masterManuel\COVID19-master\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.dll
 C:\COVID19-masterManuel\COVID19-master\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.pdb
+D:\Covid19_V2-1\COVID.App.Dominio\bin\Debug\netstandard2.1\COVID.App.Dominio.deps.json
+D:\Covid19_V2-1\COVID.App.Dominio\bin\Debug\netstandard2.1\COVID.App.Dominio.dll
+D:\Covid19_V2-1\COVID.App.Dominio\bin\Debug\netstandard2.1\COVID.App.Dominio.pdb
+D:\Covid19_V2-1\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.csprojAssemblyReference.cache
+D:\Covid19_V2-1\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.AssemblyInfoInputs.cache
+D:\Covid19_V2-1\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.AssemblyInfo.cs
+D:\Covid19_V2-1\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.csproj.CoreCompileInputs.cache
+D:\Covid19_V2-1\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.dll
+D:\Covid19_V2-1\COVID.App.Dominio\obj\Debug\netstandard2.1\COVID.App.Dominio.pdb
